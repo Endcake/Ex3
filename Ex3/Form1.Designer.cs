@@ -35,7 +35,7 @@
             // 
             this.btnExit.Location = new System.Drawing.Point(63, 284);
             this.btnExit.Name = "btnExit";
-            this.btnExit.Size = new System.Drawing.Size(75, 23);
+            this.btnExit.Size = new System.Drawing.Size(145, 23);
             this.btnExit.TabIndex = 0;
             this.btnExit.Text = "exit app";
             this.btnExit.UseVisualStyleBackColor = true;
